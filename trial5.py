@@ -1,3 +1,4 @@
+# Before you run this on vscode make sure to add more photos to the photos folder
 # Import necessary libraries
 import cv2  # OpenCV for image processing, if need to install run pip install opencv-python in terminal and wait for it to finish
 import os  # For working with files/folders
